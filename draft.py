@@ -1,6 +1,6 @@
 # -*-coding:utf-8-*-
 
-## this code is currently for python 3.8
+## this code is currently for micropython 3.4
 from utime import sleep #, sleep_ms
 from machine import Pin, I2C #, Signal
 
